@@ -1,0 +1,169 @@
+Manual Testing
+
+Module 1: Software Testing concepts 
+
+Software Testing : 
+
+System S/W : 
+
+e.g - Operating system , Drivers 
+
+Programming Software: 
+
+e.g -  Compilers , Interpreters , debugging tools etc ..
+
+Application Software : 
+
+Web apps , Stand alone apps , mobile apps , Silver lite , Mainframe apps , etc ...
+
+
+Testing : 
+
+
+The process of checking developed software is working as per client Business requirements or not .
+
+-> finding defects 
+-> quality 
+
+prime motto of testing is to provide 
+
+a quality and risk free product ..
+
+
+What do we test in now-a-days ?
+
+-> Functionalities
+-> GUI 
+-> Usability 
+-> Performance 
+-> Load 
+-> Security 
+-> compatablity etc ...
+
+how do we test ?
+
+Manual Testing : 
+
+If any test activity carried out using Man effort then it is called Manual Testing
+
+Automation Testing:
+
+If any test activity carried out using a tool /program/script then it is called Automation Testing
+
+
+Software Testing terminologies :
+
+1. Product
+
+if a software application developed for multilple customer then it is called Product
+
+e.g NCR --> ATM machine and Software
+
+e.g Fidelity --> Banking product 
+
+2. Project 
+
+if a software application developed for single customer then it is called Project
+
+--> for HDFC only
+
+TCS --> using Fidelity product for Bank of America 
+
+Error : 
+
+Defect / Bug : 
+
+Fault/Failure/Incident: 
+
+Module 2: Software Testing Project
+
+Module 3: Agile Methodlogy and JIRA tool 
+
+Module 4: SQL or Database Testing
+
+
+
+==============================================================================
+S/W Testing is nothing but 
+
+checking are we developing right software or not  and also 
+checking developed software is working as per client Business requirements or not .
+
+
+S/W Testing = Verification + Validation
+
+Verification nothing but reviewing some kind of documents 
+
+Validation is nothing testing the code 
+
+
+======================================================
+Roles/Duties of Tester :
+
+1) Understanding the AUT (Application under Test) / Domain Knowledge 
+2) Formal Testing (Writing and executing test cases)
+3) Adhoc Testing or Informal Testing (No Test cases)
+4) Finding defects & reporting to developer 
+5) ReTesting and Regression Testing 
+6) Develop Test scripts 
+7) Executing the test scripts 
+8) Analyse the results 
+9) Prepare TEst reports 
+
+=============================================================
+
+Software Testing Principles : 
+1) Exhaustive testing is impossible
+2) Defect Clustering
+3) Pesticide Paradox 
+4) Early Testing 
+5) Testing is application dependent / sometimes situation dependent
+6) Testing should show presence of defects
+7) Absence of defects is fallacy 
+
+
+======================================================
+
+SDLC (Software Development Life Cycle)
+
+
+
+						SDLC Models 
+						
+						
+		1) Sequential 	Models				2) Iterative or Incremental Models				
+						
+1) Sequential 	Models
+   - Waterfall Model 
+   - V Model 
+   
+
+Waterfall Model : 
+
+- small projects
+- Requirements Clear
+- Each Phase is freezed once completed
+
+V Model :
+
+- small projects
+
+- when Requirements are not Clear
+
+2) Iterative or Incremental Models	
+
+- RAD Model (Rapid Application Development)
+		--> Big Projects
+		--> to be completed fastly
+		
+- Prototype Model 
+		--> Big Projects 
+		--> when customer doen't have requirements clear and refer to some already existing app 
+		
+- Spiral Model
+		--> Big Projects
+		--> Requirements is dependent on other requirements
+
+- Agile Model 		
+
+
