@@ -167,3 +167,81 @@ V Model :
 - Agile Model 		
 
 
+Software Testing Approaches :
+
+						Static Testing						Dynamic Testing
+						
+						
+Review : Examing a project related task 
+
+Types of Reviews :
+
+1) Requirment reviews :  domain experts / SME (Subject  Matter Experts)
+
+BRS (Buisness Requirment Specifictaions)
+BRD (Buisness Requirment Document)
+
+2) Design Review :  Technical Experts (Solution Architects or System  Architects) 
+
+3) Code Reviews : Senior Developers 
+Coding standards 
+
+4) Test case Reviews : Test Lead 
+
+Formal Review : If any review activity carried out by following proper review procedures 
+
+
+Inspection : If a formal review carried out while execution of task .
+
+
+Audit :  If a formal review carried out after execution of task .
+
+Peer Reviews : by team members 
+
+Walk Throughs : Knowledge Transfers 
+
+e.g : MTP (Master Test Plan ) Walkthrough 
+or  Test Strategy 
+
+--------------------------
+dynamc Testing :
+
+1) Unit Testing : 
+Smallest part of source code like method , function , procedure  are called units .
+
+
+2) Integration Testing : 
+
+once all units are tested , programmer will combine all units and test his code . 
+
+3) White BOx testing : (done by developers)
+
+Unit Testing + Integration Testing 
+
+4) System Testing : (Done by testers)
+
+Once Integration Testing completed , developer will compiled the soucre code into an executable code (Build) 
+
+for , URL /  .apk  / .ipa / .exe 
+
+5) User Acceptance Testing (UAT) : (Done by Testers/ Client / some 33rd party Testing companies)
+
+6) Black Box Testing :
+
+System Testing + User Acceptance Testing (UAT) 
+
+UAT (User Acceptance Testing) :
+
+Testing carried out by the end user on the delivered product to make sure 
+whether it is ready for live production or not .
+
+Two stages :
+
+1. Alpha Testing 
+
+It is a first level of Acceptance testing carried out at company premises
+
+2. Beta Testing 
+
+It is a last level of Acceptance testing carried out at customer/client premises
+
