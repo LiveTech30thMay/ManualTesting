@@ -245,3 +245,59 @@ It is a first level of Acceptance testing carried out at company premises
 
 It is a last level of Acceptance testing carried out at customer/client premises
 
+-----------------------------------------------------------------------------
+
+Functional System Testing Types:
+
+1) Smoke Testing 
+2) Formal Testing 
+3) ReTesting
+4) Regression Testing 
+5) Priority based testing 
+6) Sanity Testing 
+7) End-to-End 
+8) Ahdoc TEsting 
+
+Special Functional System Testing :
+
+1)Benchmark Testing 
+2) Exploratory Testing 
+3) Monkey Testing or Gorilla Testing 
+
+Non-Functional System Testing Types:
+
+1) UI TEsting or GUI Testing 
+2) Usability Testing or User Friendliness 
+3) Performance Testing 
+
+Responsiveness
+Stability
+
+i) reposnse time
+ii) processing time
+iii) concurrent user volume 
+
+Load Testing :
+
+-> Stress Testing 
+-> Soak Testing
+-> Spike Testing
+-> Volume TEsting 
+
+4) Globalization or Internationalization or I18N Testing 
+
+5)Localization or L10N testing 
+
+6)Compatability 
+
+7)Recovery Testing 
+
+8)Installation Testing 
+
+9)UnInstallation Testing 
+
+
+Module 2:
+
+Software Testing Project 
+
