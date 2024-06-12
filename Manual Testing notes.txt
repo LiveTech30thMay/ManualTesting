@@ -301,3 +301,29 @@ Module 2:
 
 Software Testing Project 
 
+
+STLC 
+
+
+-Test Planning 
+
+Test Strategy : a high level documents which gives information about how testing activities 
+carried out for project.
+
+Test Plan : a detailed document which gives information about how testing activities 
+carried out for project.
+
+Test plan template : 
+
+1. Project Overview
+2. Document references 
+3. Scope of testing 
+	3.1 In scope
+	3.2 out scope
+4. Test Strategy
+5. Test Environment
+6. Test Deliverables 
+7. staffing plan 
+8. Risk planning and mitigation 
+9. Work schedules
+10. Approvals 
