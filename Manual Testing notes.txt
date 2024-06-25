@@ -552,3 +552,95 @@ SRN Software Release Notes
 2) Build Acceptance Testing or Smoke Testing on Initial build
 
 3) Executing Test cases 
+
+4) Document and Report Defects
+
+
+
+Defect Template :
+
+Defect # or id : 
+
+unique name given to defect ( Project use nanming convention)
+
+
+Defect Summary :
+
+high level detail about defect 
+
+Defect Description : 
+
+detailed message about defect
+
+Reproducible (Y/N) :
+
+Y - means defect is always occuring 
+N -  means occuring intermitent(coming and going at intervals : not continuous)
+
+Reproducible Steps :
+Steps from test case till the defect occurance (including test data)
+
+Defect Severity : 
+
+how serious the defect is (business impact) 
+
+Blocker 
+Critical
+Medium 
+Low
+
+is given by Tester 
+
+Defect Priority :
+
+the order in which defect to be resolved 
+
+is given by Developer 
+
+Very High
+high
+medium
+low
+
+
+Defect Status : 
+
+New  /  Open  / Assigned  / Rejected / Duplicate /  Postpone or Defered  / ReTest / Closed 
+
+Detected By :
+
+Tester name
+
+Detected in Version :
+
+build version
+
+Fixed By :
+
+Developer name 
+
+Fixed Date:
+Date fixed by developed
+
+Date Of Closure:
+
+Date of retesting 
+
+??????????????????????????????????????????????????
+Assignment-8
+
+In https://adactinhotelapp.com/
+
+use Defect Template and find atleast 4 defects 
+
+
+and send to below email id 
+
+riyazsirnotes@gmail.com
+
+??????????????????????????????????????????????????????? 
+
+
+Bug Life Cycle or Defect Life Cycle 
+
+
