@@ -644,3 +644,130 @@ riyazsirnotes@gmail.com
 Bug Life Cycle or Defect Life Cycle 
 
 
+Bug Severity :
+
+this tells about the seriousness of the defect or how much it impacts the business flow 
+
+this will be given by tester 
+
+Bug Priority :
+
+the order in which bug to be resolved 
+
+this will be given by developer 
+
+							Defect Categorization	
+							
+							
+		Severity														Priority
+		
+	Very High --> Blocker/ Show stopper --> Catastrophic                Very High  --> P0
+	High      --> Critical --> Damage									High       --> P1
+	Medium	  --> Major	--> hindering									Medium     --> P2
+	Low		  --> Minor --> Cosmetic									Low        --> P3
+	
+		
+		
+Very High --> Blocker/ Show stopper --> Catastrophic 
+
+This defects indicates nothing can be proceed further 
+
+e.g Application is getting crashed , Login not working 
+
+
+High      --> Critical --> Damage 
+
+
+The main / basic functionality of the app is not working 
+
+e.g : Funds tranfers in banking app is not working 
+
+Placing an order for the item added in the cart is not working
+
+
+Medium	  --> Major	--> hindering		
+
+It causes some undesirable behaviour in flows but still functionality will be working 
+
+e.g : 
+
+Sending an email and a confirmation dialog box not appearing 
+
+Low		  --> Minor --> Cosmetic	
+
+Defects related to spelling mistakes , colors , alignment issues 		
+
+
+
+High Sevirity  and High Priority :
+
+e.g Login functionality not working 
+
+Low Servity and Low Priority :
+
+a spelling mistake in a page not frequently visited 
+
+Low Priority and High Sevirity : 
+
+app refering old logo instead of new logo 
+or
+spelling mistake in Company or brand name 
+
+High Priority and Low Severity :
+
+for e.g in registration flow password and confirm password fields are not masked .
+
+
+-------------------------------------------------------------------------------------
+
+Module 3:
+
+Agile Methodlogy and JIRA tool 
+
+Agile is a SDLC Model
+
+Agile is a incremantal and iterative model 
+
+
+Agile Principles : 
+
+1. Customer no need to wait for long time 
+2. We develop , test and release piece of software to the customer with few modules or features 
+3. we can accept / accomodate requirement changes 
+4. There will be good communication between customer , BA's Business Analysts , Developers , testers etc .
+
+Disadvantages of Agile :
+
+-> less focus on design and planning 
+-> less documentation 
+
+Scrum Framework : 
+
+Scrum is nothing but group of people working for cause 
+
+Group of people are called "Scrum Team" aor "Squad"
+
+
+Scrum Team involves following roles or people : 
+
+1. Product owner (PO) or Project Manager or Delivery Manager (1)
+2. Business Analyst (1)
+3. Scrum Master (SM) (1)
+4. Solution Architects (SA) ( 1 or 2)
+5. UX Designer (UX) (1)
+6. Developers 
+	- FontEnd Developers (FE) - (3 to 4)
+			- Web
+			- android
+			- iOS 
+	- Backend Developers (BE) - (2 to 3)
+	- Database Engineer - ( 0 to 1)
+7. Testers  - ( 2 to 3)
+	- Manual (Web / Mobile /API )
+	- Automation (Web / Mobile /API )
+8. Dev ops (1 to 2 ) 
+
+
+Total : 13 or 19 
+
+
