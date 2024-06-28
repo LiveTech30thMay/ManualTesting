@@ -771,3 +771,138 @@ Scrum Team involves following roles or people :
 Total : 13 or 19 
 
 
+Product owner (PO) : 
+
+-> define the fetaures / behaviours / journeys / functionality of the application
+
+-> priortize the fetaures as per market needs 
+
+-> accept or reject the work results 
+
+Scrum Master (SM) : 
+
+will have more knowledge on Scrum methodologies (Certified Scrum Master)
+
+He will be facilitating / driving the agile process
+
+sending invites for different ceremonies or meeting 
+
+
+Business Analyst : 
+
+he/she will have more knowledge on business and will interact with client and get the business rules 
+and helps Product Owner in preparing User stories (requirements)
+
+Solution Architects:
+
+he/she will be deisgning Project Architecture or Sequence diagrams  (System deisgn or High Level Design)
+
+UX Designer :
+
+will deisgn lowel deisgn using some tools (figma , zeplyn etc ..)
+
+
+Scrum Terminologies :
+
+USer Story : 
+
+a feature/behaviour/journey/functionality in a software or application
+
+Epic : 
+
+collection of user stories 
+
+Product Backlog : 
+
+contains list of all stories prepared by Product owner
+
+Sprint : 
+
+time period /span to complete the user stories
+usually 2-4 weeks 
+mostly 2 weeks 
+
+Story point: rough estimatation of user stories  , 
+will be given by Dev or QA team 
+
+in the form of fibonacci series
+
+1,2,3,5,8,13 
+
+Scrum master will conduct poker game 
+
+Sprint Backlog :
+
+user stories choosen for particular sprint 
+
+Burndown charts :
+
+how  much work finised or remaining in the sprint .
+
+
+
+===============================================
+Scrum Ceremonies or meeting 
+
+Sprint planning meeting :
+
+will be conducted before Sprint (capacity planning will be done and user stories will be choosen)
+
+PO , BA , SM , SA , Dev , QA , Dev ops
+
+Daily Scrum Meeting or Daily Stand up or Status call : 
+
+PO , BA , SM , SA , Dev , QA , Dev ops
+
+Every day ( 15 minutes to 30 minutes)
+
+-> what you done so far ?
+-> whats the plan for today ?
+-> is there any impediments or blocker ?
+
+Sprint Demo or Sprint review :
+
+At the end of sprint
+
+Client/Customer , PO , BA , SM , SA , Dev , QA , Dev ops
+
+Sprint Retrospective or Sprint Retro :
+
+after completion of sprint 
+
+PO , BA , SM , SA , Dev , QA , Dev ops
+
+-> what went well 
+-> what doesn't went well 
+-> status of action items 
+
+
+Sprint Backlog grooming or refinement :
+
+during sprint to pick new user stories 
+
+
+-----------------------------------------------------------
+JIRA tool 
+
+Project Management tool 
+how to create JIRA account ?
+
+google it for "jira sign up"
+
+Click on "Sign up for free today"
+
+Click on "get ot free"
+
+
+https://livetech30thmay.atlassian.net/
+
+naveenkumar.alrounder@gmail.com
+Newpass@123369
+
+
+
+
+
+
+
