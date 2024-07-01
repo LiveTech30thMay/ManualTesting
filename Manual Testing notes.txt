@@ -900,6 +900,17 @@ https://livetech30thmay.atlassian.net/
 naveenkumar.alrounder@gmail.com
 Newpass@123369
 
+====================================================
+Requirement Tracability Matrix 
+
+It tells about the mapping of requirements to test cases 
+
+Advantages of RTM :
+
+-> to track the no of test cased for each requirement
+-> if new changes are there in any requirement then to execute the test case for that requirement
+-> to find the test coverage 
+
 
 
 
